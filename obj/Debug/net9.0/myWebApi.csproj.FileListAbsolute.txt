@@ -26,3 +26,4 @@ c:\Users\jolen\myApi\myWebApi\obj\Debug\net9.0\refint\myWebApi.dll
 c:\Users\jolen\myApi\myWebApi\obj\Debug\net9.0\myWebApi.pdb
 c:\Users\jolen\myApi\myWebApi\obj\Debug\net9.0\myWebApi.genruntimeconfig.cache
 c:\Users\jolen\myApi\myWebApi\obj\Debug\net9.0\ref\myWebApi.dll
+C:\Users\jolen\myApi\myWebApi\obj\Debug\net9.0\myWebApi.sourcelink.json
